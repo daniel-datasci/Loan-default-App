@@ -1,0 +1,7 @@
+LoanID,Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,Education,EmploymentType,MaritalStatus,HasMortgage,HasDependents,LoanPurpose,HasCoSigner
+Z5D2O5UN2R,40,44144,177384,483,96,4,18.24,36,0.75,PhD,Part-time,Married,No,No,Education,Yes
+JZ56CEZ0HG,65,44118,32355,430,30,4,5.37,48,0.81,PhD,Unemployed,Single,No,Yes,Home,No
+U9PXIFZ3NA,63,63857,207911,619,79,3,15.47,60,0.24,High School,Self-employed,Single,Yes,No,Business,No
+YFOVJ0QTVT,58,57577,97535,579,17,4,24.01,36,0.78,Master's,Part-time,Married,No,Yes,Auto,No
+OO16B1ODTG,51,74637,150129,437,8,1,17.75,60,0.38,PhD,Full-time,Married,Yes,Yes,Auto,No
+Q8OXUYF0TI,50,34641,108855,347,17,4,11.77,24,0.47,PhD,Unemployed,Divorced,Yes,No,Business,No
